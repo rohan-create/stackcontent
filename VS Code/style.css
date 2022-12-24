@@ -1,0 +1,13 @@
+
+h1,h2 {color:rgb(38, 0, 255);
+text-align: center; }
+
+h3, #contactlink {text-align: center;}
+
+h3 { text-transform: uppercase;}
+
+hr {border-style:dashed !important; 
+width: 10% !important;
+border-color: rgba(170, 50, 220, .6) !important;}
+
+body {background-color: white !important;}
